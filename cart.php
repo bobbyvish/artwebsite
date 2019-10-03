@@ -3,7 +3,7 @@
 
 <!DOCTYPE html>
 <?php require_once('inc/top.php');?>
-
+<html>
 <body>
     <?php require_once('inc/header.php');?>
     <?php cart() ?>
@@ -147,5 +147,5 @@
     <script src="js/jquery.prettyPhoto.js"></script>
     <script src="js/main.js"></script>
 </body>
-
 </html>
+
